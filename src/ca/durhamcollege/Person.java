@@ -62,7 +62,6 @@ public class Person
 
     /**
      * This method tests the Person class and returns a simple message to the console
-     * @return {Void}
      */
     public void saysHello()
     {
