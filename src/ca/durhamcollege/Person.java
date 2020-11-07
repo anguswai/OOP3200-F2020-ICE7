@@ -31,6 +31,9 @@ public class Person
 
     // Constructors
 
+    /**
+     * The default constructor sets name to "unknown" and age to 0
+     */
     public Person()
     {
         m_name = "unknown";
