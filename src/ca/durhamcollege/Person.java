@@ -1,3 +1,8 @@
+/**
+ * @author Angus Wai, Student ID: 100719558
+ * @date November 6, 2020
+ * @version 0.0.1
+ */
 package ca.durhamcollege;
 
 public class Person
